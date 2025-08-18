@@ -3,6 +3,8 @@ import { Routes, Route, Link } from "react-router";
 import Tictactoe from './TicTacToe';
 import Juego2 from './Juego2';
 import Home from './Home';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 export default function App() {
